@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rust.oxide.live")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10f68255bbb7c5cff68fe687296368f12a46a7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47079d6bbb131bf1f5def1651b47261901f72299")]
 [assembly: System.Reflection.AssemblyProductAttribute("rust.oxide.live")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rust.oxide.live")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
